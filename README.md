@@ -6,9 +6,9 @@ The VGameFinder is a web application that allows users to search for video games
 
 ## View Website/Files
 
-This repo has all the files used to create the front-end of this appliction. You can view a live demo of this web app [Here](https://vgamefinder.kiranbk.com/).
+This repo has all the files used to create the front-end of this appliction. You can view a live demo of this web app <a href="https://vgamefinder.kiranbk.com/" target="_blank">Here</a>.
 
-This [Repo](https://github.com/bk-kiran/videogamerecommender) contains the files used to create the video game recommendation system, you can also view a live demo of [Here](https://videogamerecommender-6cwohbvkgdnf3l29vvyvpj.streamlit.app/).
+This <a href="https://github.com/bk-kiran/videogamerecommender" target="_blank">Repo</a> contains the files used to create the video game recommendation system, you can also view a live demo of the video game reccomender <a href="https://github.com/bk-kiran/videogamerecommender" target="_blank">Here</a>.
 
 ## Features
 
